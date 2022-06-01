@@ -37,7 +37,7 @@ use_save_data_gt = True  # do you want to use saved ground truth data?
 use_save_data_fbp_sdf = False # do you want to use saved SDF maps generated based on FBP?
 
 
-# define a list of Contrast-to-noise ratio (CNR). see jupyter_notebook/zc_add_noise_to_sinogram.ipynb, each CNR corresponds to a N0
+# define a list of Contrast-to-noise ratio (CNR). Please see jupyter_notebook/zc_add_noise_to_sinogram.ipynb --> each CNR corresponds to a N0
 CNR_list = [3,5,10,15,20,25,30,35,40,45]
 N0_list = [200, 1000, 7000, 16000, 30000, 50000, 90000, 150000, 250000, 600000] # corresponding N0
 
