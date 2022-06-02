@@ -10,7 +10,7 @@ Authors: Zhennong Chen, Kunal Gupta, Francisco Contijoch<br />
 
 
 ## Description
-This work is based on an [arXiv paper](https://arxiv.org/abs/2201.06574), github repo is [here](https://github.com/ucsd-fcrl/kg-neuralct-method). In that paper, we proposed a implicit neural representation-based framework to correct the motion artifacts in the CT images. This framework, called "NeuralCT", takes CT sinograms as the input, uses a technique called "differentiable rendering" to optimize the estimation of object motion based on projections, and returns the time-resolved image without motion artifacts. See more details in the papers.
+This work is based on an [arXiv paper](https://arxiv.org/abs/2201.06574)([github repo](https://github.com/ucsd-fcrl/kg-neuralct-method)). In that paper, we proposed a implicit neural representation-based framework to correct the motion artifacts in the CT images. This framework, called "NeuralCT", takes CT sinograms as the input, uses a technique called "differentiable rendering" to optimize the estimation of object motion based on projections, and returns the time-resolved image without motion artifacts. See more details in the papers.
 
 **The main goal of this work** is to extend NeuralCT to a more complicated scene, where there are multiple moving objects with distinct attenuations. This scene is closer to what we will see in clinical CT images (e.g., a moving LV with constrast and a RV without contrast).
 
