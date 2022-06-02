@@ -35,7 +35,7 @@ Based on the single-dot experiment in [arXiv paper](https://arxiv.org/abs/2201.0
 ### Additional guidelines
 see comments in the script
 
-Please contact the author (chenzhennong@gmail.com or zhc043@eng.ucsd.edu) for any further questions.
+Please contact the author (chenzhennong@gmail.com or zhc043@eng.ucsd.edu) for any further questions.<br />
 For environement setup difficulty, please contact Kunal Gupta (k5gupta@eng.ucsd.edu) or Francisco Contijoch (fcontijoch@eng.ucsd.ddu) for help.
 
 
