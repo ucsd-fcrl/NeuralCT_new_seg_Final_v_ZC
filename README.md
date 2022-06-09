@@ -3,7 +3,7 @@
 
 This repo is for the paper: 
 *Motion Correction Image Reconstruction using NeuralCT Improves with Spatially Aware Object Segmentation* <br />
-see our Poster [here](https://drive.google.com/file/d/15bKUaYuGyG11al5EK0t9NuuGqKPfV1PB/view?usp=sharing)<br />
+see our Poster [here](https://drive.google.com/file/d/15bKUaYuGyG11al5EK0t9NuuGqKPfV1PB/view?usp=sharing) and our Paper [here](https://drive.google.com/file/d/1iYOESeSJIgmkF8Dq1VP6cVcdcT9KA_ZQ/view?usp=sharing)<br />
 Authors: Zhennong Chen, Kunal Gupta, Francisco Contijoch<br />
 
 **Citation**: Zhennong Chen, Kunal Gupta, Francisco Contijoch, "Motion Correction Image Reconstruction using NeuralCT Improves with Spatially Aware Object Segmentation", International Conference on Image Formation in X-Ray Computed Tomography, June 2022.
