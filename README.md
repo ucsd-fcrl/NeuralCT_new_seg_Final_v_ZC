@@ -21,7 +21,7 @@ Empiricially, we have found that the performance of NeuralCT is highly dependent
 ## User Guideline
 ### Environment Setup
 The entire code is [containerized](https://www.docker.com/resources/what-container). This makes setting up environment swift and easy. Make sure you have nvidia-docker and Docker CE [installed](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) on your machine before going further. <br />
-- You can set up the docker image by ```start_docker_neural_ct.sh```.
+- You can set up the docker container by ```start_docker_neural_ct.sh```.
 
 ### Main Experiment
 We simulated a scene with two moving dots with distinct attenuations and tested our NeuralCT on it. The user can define moving speed as well as the gantry offset. 
